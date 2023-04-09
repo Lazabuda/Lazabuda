@@ -14,7 +14,6 @@
 <tr>
 <td>
   
-(https://github.com/Lazabuda/DMB-100.git)
 <br/>
 [**DMB-100**](https://github.com/Lazabuda/DMB-100.git)
 <br/>
