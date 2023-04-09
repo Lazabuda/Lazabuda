@@ -10,9 +10,9 @@
    
 <tr>
 <td>
-[<img width="320" src="https://github.com/Lazabuda/DMB-100/blob/main/DMB-100.jpg" />](https://github.com/Lazabuda/DMB-100.git)   
+[<img width="320" src="https://github.com/Lazabuda/DMB-100/blob/main/DMB-100.jpg" />](https://github.com/Lazabuda/DMB-100)   
 <br/>
-[**DMB-100**](https://github.com/Lazabuda/DMB-100.git)
+[**DMB-100**](https://github.com/Lazabuda/DMB-100)
 <br/>
 Digital Marine Balances
 
