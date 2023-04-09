@@ -8,7 +8,7 @@
 <th> SOFTWARE/FIRMWARE </th>
 </tr>
   
-  
+[<img width="320" src="https://github.com/Lazabuda/DMB-100/blob/main/DMB-100.jpg" />](https://github.com/Lazabuda/DMB-100.git)  
 <tr>
 <td>
 (https://github.com/Lazabuda/DMB-100.git)  
