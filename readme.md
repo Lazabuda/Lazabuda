@@ -8,8 +8,10 @@
 <th> SOFTWARE/FIRMWARE </th>
 </tr>
    
+  
 <tr>
 <td>
+  
 [<img width="320" src="https://github.com/Lazabuda/DMB-100/blob/main/DMB-100.jpg" />](https://github.com/Lazabuda/DMB-100)
 <br/>
 [**DMB-100**](https://github.com/Lazabuda/DMB-100)
