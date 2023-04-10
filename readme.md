@@ -23,7 +23,7 @@ Digital Marine Balances
 
 [**DMB-100_SOFTWARE**](https://github.com/Lazabuda/DMB-100_SOFTWARE)
 <br/>
-Software for Digital Marine Balances
+Software for Digital Marine Balances (IN PROCESS...)
 
 </td>
 </tr>
