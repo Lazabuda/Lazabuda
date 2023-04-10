@@ -34,9 +34,9 @@ Software for Digital Marine Balances (IN PROCESS...)
 <tr>
 <td>
   
-
+[<img width="320" src="https://github.com/Lazabuda/Rotating_Platform_HW_MEZZ_MCU/blob/main/Mezzanine.png" />](https://github.com/Lazabuda/Rotating_Platform_HW_MEZZ_MCU)
 <br/>
-
+[**Mezzanine board with MCU for Rotating Platform**](https://github.com/Lazabuda/Rotating_Platform_HW_MEZZ_MCU)
 <br/>
  
 <br/>
