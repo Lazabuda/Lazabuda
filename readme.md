@@ -1,5 +1,5 @@
 ## Hello, my name is Nikita, and I am an engineer at the Institute of Oceanology.
-[LinkedIn](https://www.linkedin.com/in/nikita-petrov-9bb780a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bka4%2FhIVpToa2w1E1iqsDqA%3D%3D)
+[LinkedIn](https://linkedin.com/in/nikita-petrov-9bb780a9)
 ## Here are some of my projects and other projects that I have been involved in:
 
 <table>
