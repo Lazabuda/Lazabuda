@@ -27,6 +27,35 @@ Software for Digital Marine Balances (IN PROCESS...)
 
 </td>
 </tr>
+   
+   
+   
+   
+<tr>
+<td>
+  
+
+<br/>
+
+<br/>
+ 
+<br/>
+
+
+</td>
+<td>
+
+
+Simple examples for STM32
+<br/>
+[Сlear STM32 project (Blink PC13 LED) + CMake](https://github.com/Lazabuda/clear_stm32_project.git)
+<br/>
+[Сlear STM32 project (Blink PC13 LED) + RTOS + CMake](https://github.com/Lazabuda/clear_stm32_project_FreeRTOS.git)
+<br/>
+
+
+</td>
+</tr>
 
   
   
