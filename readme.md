@@ -76,11 +76,10 @@ Firmware for Rotating Platform
 <td>
 
 
-Simple examples for STM32
+
+[<img width="320" src="https://github.com/Lazabuda/Lazabuda/blob/main/Word_dict.png" />](https://github.com/Lazabuda/words_dict_test)
 <br/>
-[Сlear STM32 project (Blink PC13 LED) + CMake](https://github.com/Lazabuda/clear_stm32_project.git)
-<br/>
-[Сlear STM32 project (Blink PC13 LED) + RTOS + CMake](https://github.com/Lazabuda/clear_stm32_project_FreeRTOS.git)
+[**Simple manual dictionary**](https://github.com/Lazabuda/words_dict_test)
 <br/>
 
 
