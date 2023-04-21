@@ -79,7 +79,7 @@ Firmware for Rotating Platform
 
 [<img width="320" src="https://github.com/Lazabuda/Lazabuda/blob/main/Word_dict.png" />](https://github.com/Lazabuda/words_dict_test)
 <br/>
-[**Simple manual dictionary**](https://github.com/Lazabuda/words_dict_test)
+[**Simple manual dictionary (Linux)**](https://github.com/Lazabuda/words_dict_test)
 <br/>
 
 
